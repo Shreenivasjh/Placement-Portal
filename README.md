@@ -6,6 +6,8 @@
 
 --It also provides the idea how the code works.
 
+  Screenshot is provided to see how it looks. 
+
 ![Screenshot](./Image.png)
   
 # Language-Used
