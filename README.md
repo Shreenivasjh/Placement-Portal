@@ -6,7 +6,7 @@
 
 --It also provides the idea how the code works.
 
-![Screenshot](./Screenshot(40).png)
+![Screenshot](./Website/Screenshot(40).png)
   
 # Language-Used
   Basic language like:
