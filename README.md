@@ -6,7 +6,7 @@
 
 --It also provides the idea how the code works.
 
-![Image](/WebProject/Screenshot (40).png)
+![Image](WebProject/Screenshot (40).png)
   
 # Language-Used
   Basic language like:
