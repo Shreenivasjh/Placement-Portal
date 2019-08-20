@@ -5,6 +5,8 @@
 --This project contains the details of Placement activity that takes place in college.
 
 --It also provides the idea how the code works.
+
+![Image](/WebProject/Screenshot (40).png)
   
 # Language-Used
   Basic language like:
